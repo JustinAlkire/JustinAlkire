@@ -1,0 +1,50 @@
+ 
+footer {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    left: 0;
+  }
+
+div{
+    text-align: center;
+}
+
+
+.geo-regular {
+    font-family: "Geo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5rem;
+}
+  
+  .geo-regular-italic {
+    font-family: "Geo", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+ul.center li
+{
+ text-align: left;
+ margin-left: 45%;
+}
+
+/* Box shadow req */
+.card {
+  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* ensure no bullets for the list */
+ol {
+  list-style-type: none;
+}
